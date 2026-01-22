@@ -1,9 +1,9 @@
-## Hi there, I’m William Sutton 👋
+## Hi there, I’m William Sutton
 
-🎓 Data Science major at the University of Virginia (UVA)  
-📊 Minor in General Business (McIntire School of Commerce)  
-🏈 Coaches’ Recruiting Assistant for UVA Football  
-💻 Interested in sports analytics, machine learning, and data-driven decision making
+Data Science major at the University of Virginia (UVA)  
+Minor in General Business (McIntire School of Commerce)  
+Coaches’ Recruiting Assistant for UVA Football  
+Interested in sports analytics, machine learning, and data-driven decision making
 
 ---
 
