@@ -1,4 +1,4 @@
-## Hi there, I’m William Sutton
+## Hi, I’m William Sutton
 
 Data Science major at the University of Virginia (UVA)  
 Minor in General Business (McIntire School of Commerce)  
