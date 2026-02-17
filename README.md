@@ -5,10 +5,7 @@ Minor in General Business (McIntire School of Commerce)
 Coaches’ Recruiting Assistant for UVA Football  
 Interested in sports analytics, machine learning, and data-driven decision making
 
----
-
 ### About Me
-
 I’m a data science student with a strong interest in applying analytics and machine learning to real-world problems — especially in sports, business, and product strategy.  
 I enjoy building end-to-end projects that involve data collection, modeling, visualization, and deployment.
 
